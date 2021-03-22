@@ -1,0 +1,102 @@
+body {
+    background-color: black;
+    font-family: 'Roboto', sans-serif;
+}
+#jedna {
+    border-radius: 15px;
+    height: 100px;
+    width: auto;
+    background-color: yellow;
+    color: black;
+}
+
+#jedna h1 {
+    text-align: center;
+    padding: 30px;
+}
+
+#dva {
+    height: 320px;
+    width: 250px;
+    background-color: white;
+    border-radius: 15px;
+    float: left;
+    margin-top: 15px;
+}
+
+#dva ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    font-size: 22px;
+    }
+
+    #dva li a {
+        transition: ease 0.2s;
+    }
+
+    #dva li a:hover {
+        color: yellow;
+    }
+
+    #dva li {
+        display: block;
+        color: #000;
+        padding: 7px 70px;
+        text-decoration: none;
+    }
+
+    #dva a {
+        color: black;
+        text-decoration: none;
+    }
+    h3 {
+        padding: 7px 70px;
+        font-size: 30px;
+    }
+
+    #tri {
+        height: 650px;
+        width: 1585px;
+     background-color: #828282;
+        border-radius: 15px;
+        margin-top: 15px;
+        float: right;
+        color: white;
+        font-size: 20px;
+        padding: 25px;
+    }
+    #styri {
+        height: 360px;
+        width: 250px;
+        background-color: white;
+        border-radius: 15px;
+        margin-top: 15px;
+        float: left;
+    }
+    #styri p {
+        padding: 20px;
+        text-align: center;
+    }
+    #Obrazok {
+        height: 270px;
+        width: 365px;
+        margin-top: 20px;
+        float: left;
+        margin-right: 20px;
+    }
+    #Obrazok1 {
+        height: 270px;
+        width: 390px;
+        margin-top: 20px;
+        float: right;
+        margin-right: 8px;
+    }
+    #tri h2 {
+        text-align: center;
+    
+       
+   
+    
+     
+
